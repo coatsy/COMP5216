@@ -3,3 +3,12 @@
 ################################################################################
 
 *.suo
+/COMP5216/COMP5216/COMP5216/bin/Debug
+/COMP5216/COMP5216/COMP5216/obj/Debug
+/COMP5216/COMP5216/COMP5216.Droid/bin/Debug
+/COMP5216/COMP5216/COMP5216.Droid/obj/Debug
+/COMP5216/COMP5216/COMP5216.iOS/bin/iPhoneSimulator/Debug
+/COMP5216/COMP5216/COMP5216.iOS/obj
+/COMP5216/COMP5216/COMP5216.UWP/bin/x86/Debug
+/COMP5216/COMP5216/COMP5216.UWP/obj/x86/Debug
+/COMP5216/packages
