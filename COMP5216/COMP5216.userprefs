@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{696F7625-D5D4-42FD-89BF-8A58E345B191}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="COMP5216/COMP5216/ViewModels/MainViewModel.cs">
+    <Files>
+      <File FileName="COMP5216/COMP5216/ViewModels/MainViewModel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.COMP5216.Droid PreferredExecutionTarget="Android.ce031713ea0fbc120c" />
+  <MultiItemStartupConfigurations />
+</Properties>
